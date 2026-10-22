@@ -1,5 +1,5 @@
 #### 2026-05-21  
-###ファイル構成  
+ファイル構成  
 >main.php　　　　　　メイン  
 >admin-input.php　　管理画面のUI  
 >modal.html　　　　　フロント側（html+js)  
